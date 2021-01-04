@@ -4,6 +4,8 @@ repo: upptime # Your GitHub repository name
 
 # Add your sites here
 sites:
+  - name: KPRIME
+    url: http://www.kprime.net
   - name: Google
     url: https://www.google.com
   - name: Wikipedia
