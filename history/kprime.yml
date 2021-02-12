@@ -1,7 +1,7 @@
 url: http://www.kprime.net
-status: up
-code: 200
-responseTime: 646
-lastUpdated: 2021-02-11T23:01:38.323Z
+status: down
+code: 403
+responseTime: 237
+lastUpdated: 2021-02-12T05:34:03.697Z
 startTime: Mon Jan 04 2021 18:48:32 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
